@@ -1,0 +1,3 @@
+node_modules/
+# Ignorar carpeta específica
+RecursosBackend-StripeFrontend/
